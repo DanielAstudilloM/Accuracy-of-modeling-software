@@ -1,0 +1,49 @@
+calibration
+computational_option_file
+transform_components
+computational_mode
+saturated_fluid
+    saturated fluids
+
+saturated_components
+    saturated components
+
+chemical_potentials
+    SiO2
+    TiO2
+    Al2O3
+    Cr2O3
+    FeO
+    MnO
+    MgO
+    CaO
+    Na2O
+    K2O
+
+dependent_gradient
+x_axis
+pressure1
+pressure2
+temp1
+temp2
+molar_or_mass
+    SiO2
+    TiO2
+    Al2O3
+    Cr2O3
+    FeO
+    MnO
+    MgO
+    CaO
+    Na2O
+    K2O
+
+print_file
+exclude_phases
+    excluded_phases
+
+solution_model
+    model
+    forced_phases
+
+calculation_title
